@@ -1,4 +1,5 @@
 On-the-go-AI-helper (v1.0)
+
 🚀 Welcome to Your Personal AI Sidekick!
 Have you ever wished for a smart assistant that's always just a click away, ready to help with quick questions or process information? On-the-go-AI-helper is exactly that! This lightweight desktop application brings the power of Google's Gemini AI directly to your fingertips, designed for speed and convenience in its source code form.
 
