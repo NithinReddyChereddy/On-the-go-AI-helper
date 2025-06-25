@@ -67,34 +67,11 @@ Start Chatting: Type your question or prompt into the input box at the bottom. P
 
 Quick Input: Drag any plain text from another application and drop it onto the input field. It will appear there, ready for you to send to the AI.
 
-Load File Content: Click the "Browse File" button, select a .txt file from your computer, and its content will be loaded into the input field.
-
 Hotkeys for Control:
 
 Press F2 to hide or show the application window instantly.
 
 Press F3 to cycle through transparency levels.
-
-💡 What's Next? (Future Enhancements)
-This is just the beginning for On-the-go-AI-helper! Future versions are planned to bring even more convenience and power, including:
-
-Automated Processing of Dropped Files: Directly send the content of dropped files to Gemini without an extra click (planned for v1.1).
-
-Interactive API Key Input: Implement a dedicated slot or dialog for users to securely enter their API key, removing the need for direct code modification.
-
-Secure API Key Management: Transitioning to environment variables or other robust configuration methods for API keys.
-
-Support for a wider range of file types (e.g., PDF, CSV, JSON) for AI analysis.
-
-More robust error handling and user feedback.
-
-Customizable hotkeys and other UI preferences.
-
-Persisting chat history across sessions.
-
-Compile to Executable: Provide a standalone .exe version (and potentially for other OS) once secure API key handling is implemented, for true "no-installation" deployment.
-
-Advanced prompt templating for common tasks.
 
 Stay tuned for updates as this helper evolves!
 
