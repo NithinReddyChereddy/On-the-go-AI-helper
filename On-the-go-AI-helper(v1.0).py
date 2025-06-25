@@ -6,7 +6,7 @@ import keyboard
 import os
 from tkinter import filedialog
 
-API_KEY = "AIzaSyANHT6hb02ukh7HbgBzxIG-f_k1wDqyIxM"  # Replace with your API key
+API_KEY = ""  # Replace with your API key
 
 # Window settings
 is_visible = True
